@@ -5,6 +5,7 @@ Decentralizuotos aplikacijos aprašas:
 1. Decentralizuota aplikacija leidžia atlikti nesudėtingą transakciją tarp pirkėjo, pardavėjo ir kurjerio
 2. Naudota solidty programavimo kalba sukurti smart kontraktui
 3. Aplikacijos Front-end dalis padaryta naudojant react
+4.Lokaliam blockchain naudotas truffle
 
 Decentralizuotos aplikacijos funkcijų aprašas:
 
